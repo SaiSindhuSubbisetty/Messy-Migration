@@ -126,3 +126,51 @@ messy-migration/
 * `README.md` and `CHANGES.md` updated.
 * `postman_screenshots/` included.
 * No unnecessary features added.
+
+---
+## 📸 Postman Screenshots
+
+### 🏠 Home Page
+![Home](postman_screenshots/home.png)
+
+### 🔐 Login Success (200)
+![Login Success](postman_screenshots/login-200.png)
+
+### ❌ Login Failure (401)
+![Login Failed](postman_screenshots/login-401.png)
+
+### 🔍 Search Success (200)
+![Search Success](postman_screenshots/search-200.png)
+
+### 🚫 Search Error (400)
+![Search Error](postman_screenshots/search-400.png)
+
+### 🔍 Search Empty Result (200)
+![Search Empty](postman_screenshots/search-empty-200.png)
+
+### 👤 User Created (201)
+![User Created](postman_screenshots/user-created-201.png)
+
+### ❌ User Creation Failed (400)
+![User Creation Failed](postman_screenshots/user-created-failed-400.png)
+
+### 🔁 User Updated (PUT - 200)
+![User Updated](postman_screenshots/user-put-200.png)
+
+### 👤 User by ID Found (200)
+![User by ID](postman_screenshots/userid-200.png)
+
+### ❓ User Not Found (404)
+![User Not Found](postman_screenshots/userid-404.png)
+
+### 🗑️ User Deleted (204)
+![User Deleted](postman_screenshots/userid-delete-204.png)
+
+### 🔁 User Update Failed (PUT - 400)
+![User Update Failed](postman_screenshots/userid-put-400.png)
+
+### 👥 All Users (200)
+![All Users](postman_screenshots/users-200.png)
+
+### ❌ All Users Error (400)
+![Users Error](postman_screenshots/users-400.png)
